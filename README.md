@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=동따's%20GITHUB&fontColor=ffffff&fontSize=40" />
 </div>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlsrhkr7&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 6px;">
   🛠️ Tech Stacks
 </h2>
@@ -36,6 +38,14 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 6px;">
   ⚙️ Algorithm
 </h2>
-<div style="text-align: left; margin-top: 10px;">
-  <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" width="350" />
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tlsrhkr7&show_icons=true&theme=radical" height="165" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" height="165" />
+    </td>
+  </tr>
+</table>
