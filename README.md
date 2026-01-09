@@ -42,10 +42,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tlsrhkr7&show_icons=true&theme=radical" height="165" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=tlsrhkr7&theme=dark" height="165" />
+      </a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" height="165" />
     </td>
   </tr>
 </table>
+
