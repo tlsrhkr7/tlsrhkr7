@@ -19,3 +19,5 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <br/></div>
     </div>
+    ![programmers-badge](https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg)
+
