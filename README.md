@@ -20,6 +20,7 @@
 
   <!-- Tools / OS / Collaboration -->
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros2&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
