@@ -34,7 +34,7 @@
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 6px;">
-  Algorithm
+  ⚙️ Algorithm
 </h2>
 <div style="text-align: left; margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" width="350" />
