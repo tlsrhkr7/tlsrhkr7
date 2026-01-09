@@ -36,14 +36,5 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 6px;">
   ⚙️ Algorithm
 </h2>
-
-<table>
-  <tr>
-    <td>
-    </td>
-    <td>
       <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" height="165" />
-    </td>
-  </tr>
-</table>
 
