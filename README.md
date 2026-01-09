@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=동따's%20GITHUB&fontColor=ffffff&fontSize=40" />
 </div>
 
-<br/>
-
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 6px;">
   🛠️ Tech Stacks
 </h2>
