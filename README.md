@@ -23,7 +23,8 @@
 </div>
 
 <br/>
----
+<hr/>
+
 <div style="text-align: left; margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/tlsrhkr7/programmers-badge/master/static/result.svg" width="350" />
 </div>
